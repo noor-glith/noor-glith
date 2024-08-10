@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @noor-glith
-- 👀 I’m interested in web dev& currently working on android dev as well
+- 👀 I’m interested in web dev...
 - 🌱 I’m currently learning to be calm in every situation
 - 💞️ I’m looking to collaborate on random stuff
 - 📫 How to reach me via manorj433@gmail.com 
