@@ -2,7 +2,10 @@
 - 👀 I’m interested in web dev...
 - 🌱 I’m currently learning to be calm in every situation
 - 💞️ I’m looking to collaborate on random stuff
-- 📫 How to reach me via manorj433@gmail.com 
+- 📫 How to reach me via www.linkedin.com/in/
+mahnoor-rizwan1
+
+ 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i can read backward stories... 
 <!---
