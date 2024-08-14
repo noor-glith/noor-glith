@@ -20,12 +20,12 @@ You can click the Preview link to take a look at your changes.
 
 I'm a passionate developer with a love for building impactful software. Here are a few things about me:
 
-- 🌱 I’m currently learning **[specific technology or language]**
+- 🌱 I’m currently learning **[Working ]**
 - 👯 I’m looking to collaborate on **[project or open source initiative]**
-- 💬 Ask me about **[specific topics you are knowledgeable about]**
+- 💬 Ask me about **[Random Funfact]**
 - 📫 How to reach me: **[manorj433.email@example.com](mailto:manorj433.email@example.com)**
 - 😄 Pronouns: **She/Her**
-- ⚡ Fun fact: **[a fun fact about you]**
+- ⚡ Fun fact: **[I can read backward stories]**
 
 ## 📈 GitHub Stats
 
