@@ -43,6 +43,8 @@ I'm a passionate developer with a love for building impactful software. Here are
 ![Random Programmer](https://yourimageurl.com/programmer.png)
 
 ---
+![Programmer Working on Computer](https://media.istockphoto.com/id/1165601912/vector/developer-work-on-laptop-pc.jpg?s=612x612&w=0&k=20&c=6G8RJyUBMGbb9g-wZaQQ1ZfPtgWwW4ZpNpxw9eSNMAI=)
+
 
 ### 🛠️ Tools & Technologies
 
@@ -55,7 +57,7 @@ I'm a passionate developer with a love for building impactful software. Here are
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahnoor-rizwan1)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=dev.to&logoColor=white)](https://yourportfolio.com)
 
