@@ -13,7 +13,7 @@ mahnoor-rizwan1
 noor-glith/noor-glith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Mahnoor Rizwan! 👋
 
 ![Your Banner](https://yourimageurl.com/banner.png)
 
@@ -30,20 +30,16 @@ I'm a passionate developer with a love for building impactful software. Here are
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Mahnoor GitHub Stats](https://github-readme-stats.vercel.app/api?username=noor-glith&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noor-glith&layout=compact&theme=radical)
 
 ## 🔥 Streaks
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=noor-glith&theme=radical)
 
 ## 💻 A Random Programmer on a Computer
 
-![Random Programmer](https://yourimageurl.com/programmer.png)
-
----
-![Programmer Working on Computer](https://media.istockphoto.com/id/1165601912/vector/developer-work-on-laptop-pc.jpg?s=612x612&w=0&k=20&c=6G8RJyUBMGbb9g-wZaQQ1ZfPtgWwW4ZpNpxw9eSNMAI=)
 
 
 ### 🛠️ Tools & Technologies
@@ -58,7 +54,7 @@ I'm a passionate developer with a love for building impactful software. Here are
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahnoor-rizwan1)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/mahnoor)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=dev.to&logoColor=white)](https://yourportfolio.com)
 
 ---
