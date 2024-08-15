@@ -30,7 +30,7 @@ I'm a passionate developer with a love for building impactful software. Here are
 
 ## 💻 A Random Programmer on a Computer
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=noor-glith)](https://github.com/noor-glith/github-profile-trophy)
 
 ### 🛠️ Tools & Technologies
 
