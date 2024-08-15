@@ -52,4 +52,5 @@ I'm a passionate developer with a love for building impactful software. Here are
 
 > **"Every great developer you know got there by solving problems they were unqualified to solve until they actually did it."** – Patrick McKenzie
 
-![Footer Banner](https://yourimageurl.com/footer.png)
+![image](https://github.com/user-attachments/assets/fb215f0d-646e-4518-9d31-94a4a33965f4)
+
