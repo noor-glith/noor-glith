@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # Hi there, I'm Mahnoor Rizwan! 👋
 
-![Your Banner](https://github-header-image.com/banner.png)
+![Your Banner](https://github-header-image.png)
 
 ## 🚀 About Me
 
