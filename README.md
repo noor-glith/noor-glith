@@ -26,6 +26,9 @@ I'm a passionate developer with a love for building impactful software. Here are
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noor-glith&layout=compact&theme=radical)
 
 ## 🔥 Streaks
+## 📊 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=noor-glith&theme=dark&hide_border=true)](https:/noor-glith/git.io/streak-stats)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=noor-glith&theme=radical)
 
