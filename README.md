@@ -2,8 +2,7 @@
 noor-glith/noor-glith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
 # Hi there, I'm Mahnoor Rizwan! 👋
-
-![github-header-image](https://github.com/user-attachments/assets/4d6f94fb-34aa-4130-a6f8-46c1e752390f)
+![SQA banner](sqa-banner.svg)
 
 ## 🔍 About Me
 
