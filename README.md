@@ -55,9 +55,6 @@ I'm a **Software Quality Assurance Engineer** who believes great software isn't 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=noor-glith&theme=radical)](https://git.io/streak-stats)
 
-## 🏆 Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=noor-glith&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📫 Connect with Me
 
