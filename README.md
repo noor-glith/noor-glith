@@ -45,11 +45,6 @@ I'm a **Software Quality Assurance Engineer** who believes great software isn't 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
-## 📈 GitHub Stats
-
-![Mahnoor GitHub Stats](https://github-readme-stats.vercel.app/api?username=noor-glith&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noor-glith&layout=compact&theme=radical)
 
 ## 🔥 GitHub Streak
 
