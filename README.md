@@ -3,8 +3,7 @@ noor-glith/noor-glith is a ✨ special ✨ repository because its `README.md` (t
 --->
 # Hi there, I'm Mahnoor Rizwan! 👋
 
-![SQA banner](sqa-banner.svg![Uploading sqa-banner.svg…]()
-)
+![SQA banner](sqa-banner.svg)
 
 ## 🔍 About Me
 
