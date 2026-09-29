@@ -32,7 +32,6 @@ I'm a **Software Quality Assurance Engineer** who believes great software isn't 
 
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![JMeter](https://img.shields.io/badge/-JMeter-D22128?style=flat&logo=apachejmeter&logoColor=white)
 
 **Bug Tracking & Test Management**
 
